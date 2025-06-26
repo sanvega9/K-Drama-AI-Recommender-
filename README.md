@@ -39,7 +39,7 @@ Whether you're into thrillers like *Vincenzo*, romances like *Crash Landing on Y
 
 | File/Folder              | Description                                  |
 |--------------------------|----------------------------------------------|
-| `kdrama_recommender.py`  | Main application file with GUI & AI logic    |
+| `kdrama.py`  | Main application file with GUI & AI logic    |
 | `background.gif`         | Animated background for the GUI              |
 | `icon.png` (optional)    | App icon (if used)                           |
 
